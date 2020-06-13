@@ -1,0 +1,26 @@
+body {
+	font - size: 10in;
+	font - family: Cloister Black, Calibri, Arial, Times New Roman;
+	color: blue;
+	line-height: 14pt;
+	padding-height: 5pt;
+	padding-left: 5pt;
+	padding-right: 5pt;
+}
+
+h1.cabeçalho {
+	font: 26pt ubuntu;
+	color: purple;	
+	font-weight: bold;
+	line-height: 20pt;
+}
+
+h1.subtítulo { font: 18pt Times New Roman; color: red; }
+
+p.positivo { font: 14pt opens__; color: green; }
+
+p.negativo { font: 12pt arial; color: red; }
+
+p#coment { font: 18pt purisa; color: orange; }
+
+div.meupe { font: 29pt purisa; color: red; }
